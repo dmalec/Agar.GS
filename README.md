@@ -1,9 +1,9 @@
 # Agar.GS
-A cellular automata program for the Apple IIGS. Not yet released.
+A cellular automata program for the Apple IIGS. Latest release is [Version 0.0.1](https://github.com/dmalec/Agar.GS/releases/tag/v0.0.1)
 
 This is my Slackfest un-contest un-entry for KansasFest/A24EVR 2023.
 
-This was inspired by finding multiple highly intriguing mentions of Brian Silverman's Phantom Fish Tank program for the Apple II... but not being able to find any manuals or copies online. So, this is not the greatest Apple II cellular automata program in the world, no; this is just a Slackfest tribute for the Apple IIGS.
+Agar.GS was inspired by finding multiple highly intriguing mentions of Brian Silverman's Phantom Fish Tank program for the Apple II... but not being able to find any manuals or copies online. So, this is not the greatest Apple II cellular automata program in the world, no; this is just a Slackfest tribute for the Apple IIGS.
 
 
 ## Screen Shots
